@@ -7,15 +7,7 @@
 
 - 🔭 I’m currently working on [BloodSage - A smart health report reader.](https://github.com/Arjun6112/b_report)
 
-- 🌱 I’m currently learning **Native android with Jetpack Compose**
-
-- 👯 I’m looking to collaborate on [Teleplay](https://github.com/Arjun6112/teleplay)
-
-- 🤝 I’m looking for help with **Capgest**
-
-- 👨‍💻 All of my projects are available at [https://my-next-portfolio-ro8v.vercel.app/](https://my-next-portfolio-ro8v.vercel.app/)
-
-- 💬 Ask me about **Flutter, Native android**
+- 🌱 I’m currently learning **Langchain and GenAI**
 
 - 📫 How to reach me **6112arjun@gmail.com**
 
