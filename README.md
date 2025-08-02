@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [BloodSage - Blood Test ](https://github.com/Arjun6112/b_report)
+- 🔭 I’m currently working on [BloodSage - A smart health report reader.](https://github.com/Arjun6112/b_report)
 
 - 🌱 I’m currently learning **Native android with Jetpack Compose**
 
